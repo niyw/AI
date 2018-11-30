@@ -922,7 +922,7 @@
 - what is my next meeting
 - what is my next schedule
 - what is {OrderReference=next} in calendar
-- whatâ€™s m{OrderReference=y ne}xt meeting
+- what is my {OrderReference=next} meeting
 - when ' s my {OrderReference=next} {Subject=doctors appointment}
 - when is my {OrderReference=next} {Subject=hair cut} appointment
 - when is my {OrderReference=next} meeting with ms {ContactName=pierre}
